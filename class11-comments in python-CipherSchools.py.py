@@ -1,3 +1,3 @@
-print(' I\'m Radha Krishna Patnaik ') # \' is for '
+print(' I\'m Aditya Raj Lodhi') # \' is for '
 print('Be it \\ dfg') # \\ is for \
 print("git bash \"") # \" to print "
